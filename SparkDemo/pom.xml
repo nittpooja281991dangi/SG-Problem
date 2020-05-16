@@ -24,12 +24,27 @@
             <version>2.2.0</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/com.crealytics/spark-excel -->
-        <!-- https://mvnrepository.com/artifact/com.crealytics/spark-excel -->
+
         <dependency>
             <groupId>com.crealytics</groupId>
             <artifactId>spark-excel_2.11</artifactId>
             <version>0.12.5</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi</artifactId>
+            <version>4.1.0</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>4.1.0</version>
+        </dependency>
+
+
 
 
 
